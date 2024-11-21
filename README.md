@@ -22,5 +22,5 @@ I used Terraform Cloud as a backend management and validation tool for the IaC d
 # Architecture Diagram
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iDR4JWmIvx_-M2H0yBcnNw.jpeg">
 
-## Project documentation
+# Project documentation
 https://medium.com/@nifemi.sofowoke/deploying-a-2-tier-architecture-with-terraform-f7af2111867a
